@@ -4,5 +4,4 @@ Hi there! I'm Pranay Reddy Arva! I’m a passionate Data Scientist and IT Analys
 
 Programming Languages: Python, SQL, R
 
-Tools & Technologies: Git, Jupyter Notebook
-
+Tools & Technologies: Git, Jupyter Notebook, Visual Studio Code
