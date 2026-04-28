@@ -49,6 +49,6 @@ Committed to deepening my expertise in ML through this prestigious course.
 My goal is to become a Cloud + AI Engineer, merging automation with intelligent decision-making systems. I’m excited to leverage this internship to contribute to Indic AI datasets and grow into a leader who bridges cloud infrastructure with cutting-edge AI innovations.
 📬 Let's Connect
 Have a project idea? Want to discuss AI trends or collaborate on something exciting? Or simply say hello? I’d love to hear from you!
-→ Connect with me on LinkedIn(https://www.linkedin.com/in/pranay-simha-reddy-arva-50a157260/)
+→ Connect with me on LinkedIn(https://www.linkedin.com/in/pranay-simha-reddy-arva-)
 → Or reach out here on GitLab!
-portfolio(https://app--data-stream-portfolio-b8ab4938.base44.app/)
+portfolio(https://pranayreddyarva.base44.app/)
