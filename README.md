@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:64DD17&height=200&section=header&text=👋%20Hello%20World,%20I'm%20Arva!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:34C759,100:30D158&height=180&section=header&text=👋%20Hello%20World,%20I'm%20Arva!&fontSize=42&fontColor=000000&fontAlignY=55&desc=&animation=fadeIn"/>
 </p>
 
 pranayreddyarva
