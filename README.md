@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:64DD17&height=200&section=header&text=👋%20Hello%20World,%20I'm%20Arva!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 pranayreddyarva
 👋 About Me
 I’m Arva Pranay Simha Reddy, a dedicated Computer Science and Engineering student with a deep passion for harnessing AI to tackle real-world challenges. Thrilled to be part of the Summer of AI 2025, I’m eager to contribute to building intelligent systems that make a difference, especially in the Indic context.
