@@ -69,3 +69,34 @@ portfolio(https://pranayreddyarva.base44.app/)
   <img src="https://img.shields.io/badge/NLP-BERT-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws"/>
 </p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Summer%20of%20AI-2025-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Intern-Viswam.AI-orange?style=for-the-badge"/>
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-Driven-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI-Builder-FF4088?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-Enthusiast-43A047?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cloud-Aspirant-FF9900?style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Deep%20Learning-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Exploring-Hugging%20Face-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20AI-success?style=for-the-badge"/>
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Debugging-Life-critical-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Coffee-Powered-brown?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Code-Sleep-Repeat-blue?style=flat-square"/>
+</p>
+
+
