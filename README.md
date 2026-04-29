@@ -61,3 +61,11 @@ portfolio(https://pranayreddyarva.base44.app/)
   <img src="https://img.shields.io/badge/NLP-BERT-green">
   <img src="https://img.shields.io/badge/ML-ScikitLearn-orange">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Advanced-003B57?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Active-FF6F00?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/NLP-BERT-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws"/>
+</p>
