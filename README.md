@@ -52,3 +52,12 @@ Have a project idea? Want to discuss AI trends or collaborate on something excit
 → Connect with me on LinkedIn(https://www.linkedin.com/in/pranay-simha-reddy-arva-)
 → Or reach out here on GitLab!
 portfolio(https://pranayreddyarva.base44.app/)
+
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-Data-blue">
+  <img src="https://img.shields.io/badge/NLP-BERT-green">
+  <img src="https://img.shields.io/badge/ML-ScikitLearn-orange">
+</p>
