@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:34C759,100:30D158&height=180&section=header&text=👋%20Hello%20World,%20I'm%20Arva!&fontSize=42&fontColor=000000&fontAlignY=55&desc=&animation=fadeIn"/>
-</p>
+<img width="1109" height="297" alt="Screenshot 2025-08-06 114231" src="https://github.com/user-attachments/assets/39c08903-c53f-44a7-8047-d669e7f657aa" />
+
 
 pranayreddyarva
 👋 About Me
